@@ -23,15 +23,17 @@ function decrement(n) {
 }
 
 function makeInt(n) {
+var n = '0x2328'
   parseInt('n', 10);
   return n;
-  var n = '0x2328'
+  
 }
 
 
 
 function preserveDecimal(n) {
+var n = '2.222'
   parseFloat('n');
   return n;
-  var n = '2.222'
+  
 }
