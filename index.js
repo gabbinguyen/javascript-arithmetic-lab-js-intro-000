@@ -26,7 +26,7 @@ function makeInt(n) {
 var n = '0x2328'
   parseInt('n', 10);
   return n;
-  
+
 }
 
 
@@ -35,5 +35,5 @@ function preserveDecimal(n) {
 var n = '2.222'
   parseFloat('n');
   return n;
-  
+
 }
